@@ -1,3 +1,6 @@
 [submodule "neovim"]
 	path = neovim
 	url = https://github.com/Igor-Basilio/neovim
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/Igor-Basilio/Emacs-config
